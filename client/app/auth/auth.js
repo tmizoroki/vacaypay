@@ -20,11 +20,6 @@
           $scope.signupForm.$setPristine();   
       });
     };
-
-
-
-
-
-
+  });
 })();
 
